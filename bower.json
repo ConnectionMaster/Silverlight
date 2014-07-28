@@ -1,0 +1,22 @@
+{
+  "name": "Silverlight",
+  "main": "Silverlight.js",
+  "version": "5.1.20125.0",
+  "authors": [
+    "M$"
+  ],
+  "description": "Microsoft's Silverlight.js",
+  "keywords": [
+    "Silverlight",
+    "Smoothstreaming"
+  ],
+  "license": "Unknown",
+  "homepage": "http://msdn.microsoft.com/en-us/library/cc838126(v=vs.95).aspx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
